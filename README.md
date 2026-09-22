@@ -1,88 +1,144 @@
- ███████╗ █████╗  █████╗ ██████╗ ██╗  ██╗██╗ ██████╗
- ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║  ██║██║██╔═══██╗
- ███████╗███████║███████║██║  ██║███████║██║█```
- ███████╗ █████╗  █████╗ ██████╗ ██╗  ██╗██╗ ██████╗
- ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║  ██║██║██╔═══██╗
- ███████╗███████║███████║██║  ██║███████║██║██║   ██║
- ╚════██║██╔══██║██╔══██║██║  ██║██╔══██║██║██║▄▄ ██║
- ███████║██║  ██║██║  ██║██████╔╝██║  ██║██║╚██████╔╝
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝ ╚══▀▀═╝
+<div align="center">
 
-              F U L L - S T A C K   D E V E L O P E R
-```
+# SAADHIQ AHAMED
 
-```
-> whoami
+### Full-Stack Web Developer
 
-  Full-Stack Web Developer building products end to end —
-  from database schema to the final pixel on screen.
-  Clean code. Practical UX. Things that just work.
-```
+**I turn ideas into digital experiences.**
 
-────────────────────────────────────────────────────────────
+<br>
 
-```
-[ SKILLS ]
+`BUILD` · `DESIGN` · `SOLVE` · `SHIP`
 
-  React & Next.js                 [██████████████████░░]  95%
-  Node.js & API Development       [██████████████████░░]  90%
-  Database Architecture           [█████████████████░░░]  88%
-  Cloud & DevOps                  [███████████████░░░░░]  75%
-  Authentication & Web Security   [█████████████████░░░]  85%
-  UI/UX & Responsive Design       [██████████████████░░]  92%
-```
+<br>
 
-────────────────────────────────────────────────────────────
+[ GitHub ] · [ LinkedIn ] · [ Email ]
 
-```
-[ FEATURED WORK ]
+</div>
 
-  ┌─ StayNear ─────────────────────────────────────────┐
-  │  Hostel management system                          │
-  │  status: completed                                  │
-  └──────────────────────────────────────────────────────┘
+---
 
-  ┌─ Ross Motor Cars ──────────────────────────────────┐
-  │  Premium car-sales website — USA dealership         │
-  │  frontend only, premium UI features                 │
-  │  status: completed                                  │
-  └──────────────────────────────────────────────────────┘
+## ABOUT
 
-  ┌─ Lecture Management System ────────────────────────┐
-  │  Built for SLIATE                                   │
-  │  status: completed                                  │
-  └──────────────────────────────────────────────────────┘
+I'm a Full-Stack Web Developer passionate about building modern web applications, business solutions, and digital experiences.
 
-  ┌─ Kandy Fancy Pvt Ltd ──────────────────────────────┐
-  │  Business website                                   │
-  │  status: completed                                  │
-  └──────────────────────────────────────────────────────┘
+I enjoy working across the entire development process — from **interface and user experience to backend logic, databases, and deployment**.
 
-  ┌─ Mage Business POS App ────────────────────────────┐
-  │  Point-of-sale mobile app, full offline support     │
-  │  status: completed                                  │
-  └──────────────────────────────────────────────────────┘
+My approach is simple:
 
-  ┌─ Sterlyn Silver ───────────────────────────────────┐
-  │  E-commerce site for a silver rings brand           │
-  │  status: in progress                                │
-  └──────────────────────────────────────────────────────┘
-```
+> **Clean code. Thoughtful design. Real-world solutions.**
 
-────────────────────────────────────────────────────────────
+---
 
-```
-[ CONTACT ]
+## WHAT I DO
 
-  linkedin  ::  linkedin.com/in/saadhiqahamed-undefined-569035425
-  email     ::  saadhiqahamed1@gmail.com
-```
+**Frontend**
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
-```
-> end of profile._
-```█║   ██║
- ╚════██║██╔══██║██╔══██║██║  ██║██╔══██║██║██║▄▄ ██║
- ███████║██║  ██║██║  ██║██████╔╝██║  ██║██║╚██████╔╝
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝ ╚══▀▀═╝
+**Backend**
+Node.js · Express · REST APIs · Authentication
 
-              F U L L - S T A C K   D E V E L O P E R
+**Database**
+MongoDB · MySQL · PostgreSQL
+
+**Development**
+Git · GitHub · Docker · AWS · Figma
+
+---
+
+## SELECTED WORK
+
+### STAYNEAR
+
+**Hostel Management System**
+
+A complete digital solution designed to simplify hostel management and everyday operations.
+
+`COMPLETED`
+
+---
+
+### ROSS MOTOR CARS
+
+**Premium Automotive Website**
+
+A modern automotive website focused on premium visual presentation, responsive design, and user experience.
+
+`COMPLETED`
+
+---
+
+### LECTURE MANAGEMENT SYSTEM
+
+**Academic Management Platform**
+
+A web-based platform created to organize and manage lecture-related activities for SLIATE.
+
+`COMPLETED`
+
+---
+
+### KANDY FANCY PVT LTD
+
+**Business Website**
+
+A professional web presence created for a retail business, combining a clean interface with responsive design.
+
+`COMPLETED`
+
+---
+
+### MAGE BUSINESS
+
+**Offline POS Application**
+
+A mobile point-of-sale solution designed for small businesses, with offline-first functionality and business management features.
+
+`COMPLETED`
+
+---
+
+## CURRENTLY BUILDING
+
+### STERLYN SILVER
+
+**E-Commerce Experience**
+
+A modern online storefront created for a silver jewellery brand, focused on elegant product presentation and a premium shopping experience.
+
+`IN PROGRESS`
+
+---
+
+## MY PHILOSOPHY
+
+I don't believe great software is only about writing more code.
+
+It's about understanding the problem, removing unnecessary complexity, and creating something people can use naturally.
+
+**Technology is the tool.
+The experience is the result.**
+
+---
+
+<div align="center">
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+If you have an idea, project, or opportunity —
+
+**I'd love to hear about it.**
+
+<br>
+
+**[saadhiqahamed1@gmail.com](mailto:saadhiqahamed1@gmail.com)**
+
+<br>
+
+[ LinkedIn ] · [ GitHub ]
+
+<br><br>
+
+<sub>© 2026 Saadhiq Ahamed</sub>
+
+</div>
