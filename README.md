@@ -95,7 +95,7 @@ POS mobile app with full offline support
 </td>
 <td width="33%" valign="top">
 
-### 💍 Sterlyn Silver
+###  Sterlyn Silver
 E-commerce site for a silver rings brand
 <br/><sub> In Progress</sub>
 
