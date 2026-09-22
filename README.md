@@ -1,144 +1,178 @@
 <div align="center">
 
-# SAADHIQ AHAMED
+# <span style="color:#7C3AED">SAADHIQ AHAMED</span>
 
-### Full-Stack Web Developer
+### <span style="color:#2563EB">Full-Stack Web Developer</span>
 
-**I turn ideas into digital experiences.**
-
-<br>
-
-`BUILD` · `DESIGN` · `SOLVE` · `SHIP`
+**Turning ideas into modern digital experiences.**
 
 <br>
 
-[ GitHub ] · [ LinkedIn ] · [ Email ]
+🟣 `BUILD`　🔵 `DESIGN`　🟢 `SOLVE`　🟠 `SHIP`
+
+<br><br>
+
+<a href="https://github.com/saadhiqahamed">GitHub</a>
+  •   <a href="https://www.linkedin.com/in/saadhiqahamed-undefined-569035425">LinkedIn</a>
+  •   <a href="mailto:saadhiqahamed1@gmail.com">Email</a>
 
 </div>
 
----
-
-## ABOUT
-
-I'm a Full-Stack Web Developer passionate about building modern web applications, business solutions, and digital experiences.
-
-I enjoy working across the entire development process — from **interface and user experience to backend logic, databases, and deployment**.
-
-My approach is simple:
-
-> **Clean code. Thoughtful design. Real-world solutions.**
+<br>
 
 ---
 
-## WHAT I DO
+## ✦ <span style="color:#7C3AED">ABOUT ME</span>
+
+I'm a **Full-Stack Web Developer** who enjoys transforming ideas into polished, functional digital products.
+
+I work across the complete development journey — from **UI and user experience to backend systems, databases, APIs, and deployment**.
+
+> 💡 **Clean code. Creative thinking. Real-world solutions.**
+
+I'm constantly learning, experimenting, and building projects that turn concepts into something people can actually use.
+
+---
+
+## ⚡ <span style="color:#2563EB">CORE SKILLS</span>
 
 **Frontend**
-React · Next.js · TypeScript · JavaScript · Tailwind CSS
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
 **Backend**
-Node.js · Express · REST APIs · Authentication
+`Node.js` `Express.js` `REST APIs` `Authentication`
 
 **Database**
-MongoDB · MySQL · PostgreSQL
+`MongoDB` `MySQL` `PostgreSQL`
 
-**Development**
-Git · GitHub · Docker · AWS · Figma
+**Tools & Cloud**
+`Git` `GitHub` `Docker` `AWS` `Figma`
 
 ---
 
-## SELECTED WORK
+## 🚀 <span style="color:#059669">COMPLETED PROJECTS</span>
 
-### STAYNEAR
+### 🏨 **StayNear**
 
 **Hostel Management System**
 
-A complete digital solution designed to simplify hostel management and everyday operations.
+A complete digital platform designed to simplify hostel management and everyday operations.
 
-`COMPLETED`
+**Status:** 🟢 `COMPLETED`
 
 ---
 
-### ROSS MOTOR CARS
+### 🚗 **Ross Motor Cars**
 
 **Premium Automotive Website**
 
-A modern automotive website focused on premium visual presentation, responsive design, and user experience.
+A modern automotive website created for a USA-based dealership, with a strong focus on premium presentation, responsive design, and user experience.
 
-`COMPLETED`
+**Status:** 🟢 `COMPLETED`
 
 ---
 
-### LECTURE MANAGEMENT SYSTEM
+### 🎓 **Lecture Management System**
 
 **Academic Management Platform**
 
-A web-based platform created to organize and manage lecture-related activities for SLIATE.
+A web-based platform developed to organize and manage lecture-related activities for SLIATE.
 
-`COMPLETED`
+**Status:** 🟢 `COMPLETED`
 
 ---
 
-### KANDY FANCY PVT LTD
+### 🏪 **Kandy Fancy Pvt Ltd**
 
 **Business Website**
 
-A professional web presence created for a retail business, combining a clean interface with responsive design.
+A professional digital presence created for a retail business with a clean and responsive user experience.
 
-`COMPLETED`
+**Status:** 🟢 `COMPLETED`
 
 ---
 
-### MAGE BUSINESS
+### 📱 **Mage Business**
 
 **Offline POS Application**
 
-A mobile point-of-sale solution designed for small businesses, with offline-first functionality and business management features.
+A mobile point-of-sale solution designed for small businesses, featuring offline-first functionality and business management capabilities.
 
-`COMPLETED`
-
----
-
-## CURRENTLY BUILDING
-
-### STERLYN SILVER
-
-**E-Commerce Experience**
-
-A modern online storefront created for a silver jewellery brand, focused on elegant product presentation and a premium shopping experience.
-
-`IN PROGRESS`
+**Status:** 🟢 `COMPLETED`
 
 ---
 
-## MY PHILOSOPHY
+## 💎 <span style="color:#DB2777">CURRENTLY BUILDING</span>
 
-I don't believe great software is only about writing more code.
+### 💍 **Sterlyn Silver**
 
-It's about understanding the problem, removing unnecessary complexity, and creating something people can use naturally.
+**Silver Jewellery E-Commerce**
 
-**Technology is the tool.
-The experience is the result.**
+A modern e-commerce experience being developed for a silver jewellery brand, focused on elegant product presentation and a premium shopping experience.
+
+**Status:** 🟡 `IN PROGRESS`
+
+---
+
+## 🧠 <span style="color:#7C3AED">HOW I BUILD</span>
+
+**01 — Understand**
+Understand the problem before writing the solution.
+
+**02 — Design**
+Create an interface that feels simple and intuitive.
+
+**03 — Develop**
+Turn the idea into clean, maintainable software.
+
+**04 — Refine**
+Improve the details, performance, and experience.
+
+**05 — Ship**
+Take the finished product into the real world.
+
+---
+
+## 🎨 <span style="color:#F97316">MY APPROACH</span>
+
+I believe great software sits at the intersection of:
+
+**Technology × Design × Purpose**
+
+Not everything needs to be complicated.
+
+Sometimes the best solution is the one that makes the user think the least.
+
+---
+
+## 🌐 <span style="color:#2563EB">LET'S CONNECT</span>
+
+Have a project, idea, collaboration, or opportunity?
+
+I'd be happy to talk.
+
+<br>
+
+📧 **[saadhiqahamed1@gmail.com](mailto:saadhiqahamed1@gmail.com)**
+
+💼 **[LinkedIn](https://www.linkedin.com/in/saadhiqahamed-undefined-569035425)**
+
+💻 **[GitHub](https://github.com/saadhiqahamed)**
+
+<br>
 
 ---
 
 <div align="center">
 
-### LET'S BUILD SOMETHING MEANINGFUL.
-
-If you have an idea, project, or opportunity —
-
-**I'd love to hear about it.**
+### <span style="color:#7C3AED">BUILD SOMETHING WORTH REMEMBERING.</span>
 
 <br>
 
-**[saadhiqahamed1@gmail.com](mailto:saadhiqahamed1@gmail.com)**
-
-<br>
-
-[ LinkedIn ] · [ GitHub ]
+`CODE` · `CREATE` · `EVOLVE`
 
 <br><br>
 
-<sub>© 2026 Saadhiq Ahamed</sub>
+<sub>Designed & built by <strong>Saadhiq Ahamed</strong> · 2026</sub>
 
 </div>
