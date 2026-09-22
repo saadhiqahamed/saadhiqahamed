@@ -1,132 +1,141 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saadhiq%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%"/>
-
-<a href="https://www.linkedin.com/in/saadhiqahamed-undefined-569035425">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Where+clean+code+meets+creative+thinking.;Building+full-stack+experiences+that+just+work.;React+%7C+Node.js+%7C+Databases+%7C+Cloud;Turning+ideas+into+products.;&font=Fira+Code&center=true&width=550&height=40&color=F75C7E&vCenter=true&size=22" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/saadhiqahamed-undefined-569035425" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>
-<a href="mailto:saadhiqahamed1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=saadhiqahamed&style=for-the-badge&color=9146FF&labelColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=SAADHIQ%20AHAMED&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=100%" />
+<br/>
 
-## 🧑‍💻 &nbsp;About Me
+<div align="center">
 
-> I'm a **Full-Stack Web Developer** who loves turning ideas into fast, reliable, and good-looking products — from database design to the final pixel on screen. I care about clean code, thoughtful UX, and products that feel effortless to use.
+```
+> whoami
+```
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Where+clean+code+meets+creative+thinking.;Turning+ideas+into+full-stack+products.;React+%E2%80%A2+Node.js+%E2%80%A2+Databases+%E2%80%A2+Cloud;Currently+building+Sterlyn+Silver...;&font=Fira+Code&center=true&width=600&height=45&color=F75C7E&vCenter=true&size=23&pause=1200"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
 <br/>
 
-## ⚡ &nbsp;What I Do
+##  &nbsp;My Story
 
-<table align="center">
+I'm a **Full-Stack Web Developer** based in Sri Lanka, building products end to end — from database schema to the final pixel. I like taking a rough idea and shaping it into something that actually works well in someone's hands: fast, secure, and pleasant to use.
+
+<br/>
+
+##  &nbsp;Skill Proficiency
+
+<div align="center">
+
+**React & Next.js**
+<img src="https://progress-bar.xyz/95?title=&width=400&color=f75c7e&suffix=%25"/>
+
+**Node.js & API Development**
+<img src="https://progress-bar.xyz/90?title=&width=400&color=6a5cf7&suffix=%25"/>
+
+**Database Architecture & Management**
+<img src="https://progress-bar.xyz/88?title=&width=400&color=5c9df7&suffix=%25"/>
+
+**Cloud & DevOps**
+<img src="https://progress-bar.xyz/75?title=&width=400&color=5cf7d5&suffix=%25"/>
+
+**Authentication & Web Security**
+<img src="https://progress-bar.xyz/85?title=&width=400&color=f7c85c&suffix=%25"/>
+
+**UI/UX & Responsive Design**
+<img src="https://progress-bar.xyz/92?title=&width=400&color=f75c9d&suffix=%25"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
+
+##  &nbsp;Featured Work
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-🎨 **React & Next.js**
-Modern, performant front-end applications
-
-⚙️ **Node.js & API Development**
-Robust backend services & REST APIs
-
-🗄️ **Database Architecture & Management**
-Scalable, well-structured data layers
+###  StayNear
+Hostel management system
+<br/><sub> Completed</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-☁️ **Cloud & DevOps**
-Deployment, CI/CD & infrastructure
+###  Ross Motor Cars
+Premium car-sales site for a USA dealership — premium frontend features
+<br/><sub> Completed</sub>
 
-🔐 **Authentication & Web Security**
-Secure, production-ready auth flows
+</td>
+<td width="33%" valign="top">
 
-📱 **UI/UX & Responsive Design**
-Interfaces that work beautifully on any device
+###  Lecture Management System
+Built for SLIATE
+<br/><sub> Completed</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+###  Kandy Fancy Pvt Ltd
+Business website for the company
+<br/><sub> Completed</sub>
+
+</td>
+<td width="33%" valign="top">
+
+###  Mage Business POS
+POS mobile app with full offline support
+<br/><sub> Completed</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### 💍 Sterlyn Silver
+E-commerce site for a silver rings brand
+<br/><sub> In Progress</sub>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-## 🧰 &nbsp;Tech Stack
+##  &nbsp;Live Contribution Snake
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/saadhiqahamed/saadhiqahamed/output/github-contribution-grid-snake.svg" width="100%"/>
+<!--END_SECTION:snake-->
+
+<sub>s animation eats your real contribution graph — see setup note below.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-## 💼 &nbsp;Featured Projects
-
-<table>
-<tr><th>🚀 Project</th><th>📄 Description</th><th>📌 Status</th></tr>
-<tr><td><b>StayNear</b></td><td>Hostel management system</td><td>🟢 Completed</td></tr>
-<tr><td><b>Ross Motor Cars</b></td><td>Premium car-sales website for a USA-based dealership (frontend, with premium UI features)</td><td>🟢 Completed</td></tr>
-<tr><td><b>Lecture Management System</b></td><td>Lecture management platform built for SLIATE</td><td>🟢 Completed</td></tr>
-<tr><td><b>Kandy Fancy Pvt Ltd</b></td><td>Business website for Kandy Fancy Private Limited</td><td>🟢 Completed</td></tr>
-<tr><td><b>Mage Business POS App</b></td><td>Point-of-sale mobile app with full offline support</td><td>🟢 Completed</td></tr>
-<tr><td><b>Sterlyn Silver</b></td><td>E-commerce website for a silver rings brand, showcasing their designs</td><td>🟡 In Progress</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=100%" />
-
-## 📊 &nbsp;GitHub Stats
+##  &nbsp;Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saadhiqahamed&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhiqahamed&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saadhiqahamed&show_icons=false&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhiqahamed&theme=radical&hide_border=true&background=0d1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhiqahamed&theme=radical&hide_border=true&background=0d1117&ring=f75c7e&fire=f75c7e"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadhiqahamed&theme=react-dark&hide_border=true&bg_color=0d1117"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=100%" />
-
-## 📫 &nbsp;Let's Connect
+## 📬 &nbsp;Reach Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/saadhiqahamed-undefined-569035425" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:saadhiqahamed1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**LinkedIn:** [saadhiqahamed](https://www.linkedin.com/in/saadhiqahamed-undefined-569035425) &nbsp;|&nbsp; **Email:** saadhiqahamed1@gmail.com
 
 </div>
 
