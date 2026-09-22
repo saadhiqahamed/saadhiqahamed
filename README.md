@@ -1,178 +1,196 @@
 <div align="center">
 
-# <span style="color:#7C3AED">SAADHIQ AHAMED</span>
+<br>
 
-### <span style="color:#2563EB">Full-Stack Web Developer</span>
+# ▰ SAADHIQ AHAMED
 
-**Turning ideas into modern digital experiences.**
+### `FULL-STACK WEB DEVELOPER`
+
+**Where clean code meets creative thinking.**
 
 <br>
 
-🟣 `BUILD`　🔵 `DESIGN`　🟢 `SOLVE`　🟠 `SHIP`
+`React`  ·  `Next.js`  ·  `Node.js`  ·  `Database`  ·  `Cloud`  ·  `UI/UX`
 
-<br><br>
+<br>
 
-<a href="https://github.com/saadhiqahamed">GitHub</a>
-  •   <a href="https://www.linkedin.com/in/saadhiqahamed-undefined-569035425">LinkedIn</a>
-  •   <a href="mailto:saadhiqahamed1@gmail.com">Email</a>
+**[ GitHub ](https://github.com/saadhiqahamed)**    **[ LinkedIn ](https://www.linkedin.com/in/saadhiqahamed-undefined-569035425)**    **[ Email ](mailto:saadhiqahamed1@gmail.com)**
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
-<br>
+## 01 / ABOUT
+
+I'm a **Full-Stack Web Developer** focused on creating digital products that are fast, reliable, responsive, and easy to use.
+
+I work across the development process — from **database architecture and APIs to modern interfaces and user experience**.
+
+> **Build with purpose. Design with detail. Code with clarity.**
 
 ---
 
-## ✦ <span style="color:#7C3AED">ABOUT ME</span>
+## 02 / CORE SKILLS
 
-I'm a **Full-Stack Web Developer** who enjoys transforming ideas into polished, functional digital products.
+🟣 **Frontend Development**
+React · Next.js · JavaScript · TypeScript · Tailwind CSS
 
-I work across the complete development journey — from **UI and user experience to backend systems, databases, APIs, and deployment**.
+🔵 **Backend Development**
+Node.js · Express.js · REST APIs
 
-> 💡 **Clean code. Creative thinking. Real-world solutions.**
+🟢 **Database Architecture**
+MongoDB · MySQL · PostgreSQL
 
-I'm constantly learning, experimenting, and building projects that turn concepts into something people can actually use.
+🟠 **Cloud & DevOps**
+Docker · AWS · Git · GitHub
+
+🔴 **Web Security**
+Authentication · Authorization · Secure API Design
+
+🟡 **UI / UX**
+Responsive Design · Figma · User Experience
 
 ---
 
-## ⚡ <span style="color:#2563EB">CORE SKILLS</span>
+## 03 / SELECTED WORK
+
+### ◼ StayNear
+
+**Hostel Management System**
+
+A digital platform designed to simplify hostel management and everyday operations.
+
+`Web Application` · `Management System` · `Database`
+
+**● COMPLETED**
+
+---
+
+### ◼ Ross Motor Cars
+
+**Premium Car Sales Website — USA**
+
+A modern automotive website focused on premium presentation, clean UI, and an engaging browsing experience.
+
+`Frontend` · `Premium UI` · `Responsive Design`
+
+**● COMPLETED**
+
+---
+
+### ◼ Lecture Management System
+
+**SLIATE**
+
+A lecture management platform developed to organize and simplify academic lecture-related activities.
+
+`Web Application` · `Database` · `Management System`
+
+**● COMPLETED**
+
+---
+
+### ◼ Kandy Fancy Pvt Ltd
+
+**Business Website**
+
+A professional business website created to establish a strong digital presence with a clean and responsive interface.
+
+`Web Development` · `Business Website` · `Responsive UI`
+
+**● COMPLETED**
+
+---
+
+### ◼ Mage Business
+
+**Offline POS & Business Management App**
+
+An Android-based POS application designed for small businesses with offline operation, inventory, barcode, billing, and business management features.
+
+`Android` · `POS` · `Barcode` · `Inventory` · `Offline`
+
+**● COMPLETED**
+
+---
+
+## 04 / TECHNOLOGY
 
 **Frontend**
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
+
+`React` `Next.js` `JavaScript` `TypeScript` `Tailwind CSS`
 
 **Backend**
-`Node.js` `Express.js` `REST APIs` `Authentication`
+
+`Node.js` `Express.js` `REST API`
 
 **Database**
+
 `MongoDB` `MySQL` `PostgreSQL`
 
-**Tools & Cloud**
+**Tools**
+
 `Git` `GitHub` `Docker` `AWS` `Figma`
 
 ---
 
-## 🚀 <span style="color:#059669">COMPLETED PROJECTS</span>
+## 05 / HOW I BUILD
 
-### 🏨 **StayNear**
+**01** — Understand the problem
+**02** — Design the experience
+**03** — Build the system
+**04** — Refine the details
+**05** — Deliver something useful
 
-**Hostel Management System**
-
-A complete digital platform designed to simplify hostel management and everyday operations.
-
-**Status:** 🟢 `COMPLETED`
-
----
-
-### 🚗 **Ross Motor Cars**
-
-**Premium Automotive Website**
-
-A modern automotive website created for a USA-based dealership, with a strong focus on premium presentation, responsive design, and user experience.
-
-**Status:** 🟢 `COMPLETED`
+> **Good software isn't only about making it work.
+> It's about making it work beautifully.**
 
 ---
 
-### 🎓 **Lecture Management System**
+## 06 / CURRENTLY BUILDING
 
-**Academic Management Platform**
+### ◼ WizFlow
 
-A web-based platform developed to organize and manage lecture-related activities for SLIATE.
+Exploring software products, web development, and practical digital solutions.
 
-**Status:** 🟢 `COMPLETED`
+Currently focused on improving my skills in:
 
----
-
-### 🏪 **Kandy Fancy Pvt Ltd**
-
-**Business Website**
-
-A professional digital presence created for a retail business with a clean and responsive user experience.
-
-**Status:** 🟢 `COMPLETED`
-
----
-
-### 📱 **Mage Business**
-
-**Offline POS Application**
-
-A mobile point-of-sale solution designed for small businesses, featuring offline-first functionality and business management capabilities.
-
-**Status:** 🟢 `COMPLETED`
-
----
-
-## 💎 <span style="color:#DB2777">CURRENTLY BUILDING</span>
-
-### 💍 **Sterlyn Silver**
-
-**Silver Jewellery E-Commerce**
-
-A modern e-commerce experience being developed for a silver jewellery brand, focused on elegant product presentation and a premium shopping experience.
-
-**Status:** 🟡 `IN PROGRESS`
-
----
-
-## 🧠 <span style="color:#7C3AED">HOW I BUILD</span>
-
-**01 — Understand**
-Understand the problem before writing the solution.
-
-**02 — Design**
-Create an interface that feels simple and intuitive.
-
-**03 — Develop**
-Turn the idea into clean, maintainable software.
-
-**04 — Refine**
-Improve the details, performance, and experience.
-
-**05 — Ship**
-Take the finished product into the real world.
-
----
-
-## 🎨 <span style="color:#F97316">MY APPROACH</span>
-
-I believe great software sits at the intersection of:
-
-**Technology × Design × Purpose**
-
-Not everything needs to be complicated.
-
-Sometimes the best solution is the one that makes the user think the least.
-
----
-
-## 🌐 <span style="color:#2563EB">LET'S CONNECT</span>
-
-Have a project, idea, collaboration, or opportunity?
-
-I'd be happy to talk.
-
-<br>
-
-📧 **[saadhiqahamed1@gmail.com](mailto:saadhiqahamed1@gmail.com)**
-
-💼 **[LinkedIn](https://www.linkedin.com/in/saadhiqahamed-undefined-569035425)**
-
-💻 **[GitHub](https://github.com/saadhiqahamed)**
-
-<br>
+`Full-Stack Development` · `System Design` · `Cloud` · `UI/UX`
 
 ---
 
 <div align="center">
 
-### <span style="color:#7C3AED">BUILD SOMETHING WORTH REMEMBERING.</span>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <br>
 
-`CODE` · `CREATE` · `EVOLVE`
+### ◼ LET'S BUILD SOMETHING
 
-<br><br>
+**Ideas → Design → Code → Product**
 
-<sub>Designed & built by <strong>Saadhiq Ahamed</strong> · 2026</sub>
+<br>
+
+[ GitHub ](https://github.com/saadhiqahamed)
+[ LinkedIn ](https://www.linkedin.com/in/saadhiqahamed-undefined-569035425)
+[ saadhiqahamed1@gmail.com ](mailto:saadhiqahamed1@gmail.com)
+
+<br>
+
+**SAADHIQ AHAMED**
+
+`FULL-STACK WEB DEVELOPER`
+
+<br>
+
+*Creating digital experiences with clean code and creative thinking.*
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**© 2026 Saadhiq Ahamed**
 
 </div>
