@@ -20,13 +20,13 @@
 
 <br/>
 
-##  &nbsp;My Story
+## 📖 &nbsp;My Story
 
 I'm a **Full-Stack Web Developer** based in Sri Lanka, building products end to end — from database schema to the final pixel. I like taking a rough idea and shaping it into something that actually works well in someone's hands: fast, secure, and pleasant to use.
 
 <br/>
 
-##  &nbsp;Skill Proficiency
+## ⚙️ &nbsp;Skill Proficiency
 
 <div align="center">
 
@@ -52,52 +52,52 @@ I'm a **Full-Stack Web Developer** based in Sri Lanka, building products end to 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-##  &nbsp;Featured Work
+## 🗂️ &nbsp;Featured Work
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-###  StayNear
+### 🏨 StayNear
 Hostel management system
-<br/><sub> Completed</sub>
+<br/><sub>🟢 Completed</sub>
 
 </td>
 <td width="33%" valign="top">
 
-###  Ross Motor Cars
+### 🚗 Ross Motor Cars
 Premium car-sales site for a USA dealership — premium frontend features
-<br/><sub> Completed</sub>
+<br/><sub>🟢 Completed</sub>
 
 </td>
 <td width="33%" valign="top">
 
-###  Lecture Management System
+### 🎓 Lecture Management System
 Built for SLIATE
-<br/><sub> Completed</sub>
+<br/><sub>🟢 Completed</sub>
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-###  Kandy Fancy Pvt Ltd
+### 🛍️ Kandy Fancy Pvt Ltd
 Business website for the company
-<br/><sub> Completed</sub>
+<br/><sub>🟢 Completed</sub>
 
 </td>
 <td width="33%" valign="top">
 
-###  Mage Business POS
+### 🧾 Mage Business POS
 POS mobile app with full offline support
-<br/><sub> Completed</sub>
+<br/><sub>🟢 Completed</sub>
 
 </td>
 <td width="33%" valign="top">
 
-###  Sterlyn Silver
+### 💍 Sterlyn Silver
 E-commerce site for a silver rings brand
-<br/><sub> In Progress</sub>
+<br/><sub>🟡 In Progress</sub>
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ E-commerce site for a silver rings brand
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-##  &nbsp;Live Contribution Snake
+## 🐍 &nbsp;Live Contribution Snake
 
 <div align="center">
 
@@ -113,13 +113,13 @@ E-commerce site for a silver rings brand
 <img src="https://raw.githubusercontent.com/saadhiqahamed/saadhiqahamed/output/github-contribution-grid-snake.svg" width="100%"/>
 <!--END_SECTION:snake-->
 
-<sub>s animation eats your real contribution graph — see setup note below.</sub>
+<sub>⚡ This animation eats your real contribution graph — see setup note below.</sub>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%"/>
 
-##  &nbsp;Stats
+## 📊 &nbsp;Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saadhiqahamed&show_icons=false&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&text_color=ffffff"/>
