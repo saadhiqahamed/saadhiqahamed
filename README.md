@@ -1,178 +1,175 @@
 <div align="center">
 
-  <!-- TOP HEADER SVG BANNER -->
-  <a href="https://linkedin.com">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&customColorList=0&height=180&section=header&text=Saadhiq%20Ahamed&fontSize=52&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20UI%20Engineer%20%7C%20Digital%20Builder&descSize=18&descAlign=50&descAlignY=62&stroke=1f6feb&strokeWidth=1" width="100%" alt="Saadhiq Ahamed Header" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,16,18,20&text=Saadhiq%20Ahamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-  <br /><br />
+<br>
 
-  <!-- DYNAMIC TYPING SVG -->
-  <a href="https://github.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IDEA+%E2%86%92+DESIGN+%E2%86%92+DEVELOPMENT+%E2%86%92+TESTING+%E2%86%92+DEPLOYMENT;Building+Scalable+Web+Applications+%26+Premium+UIs;Transforming+Complex+Business+Problems+into+Software" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Turning+ideas+into+products.;Code+%E2%80%A2+Design+%E2%80%A2+Innovation;Where+clean+code+meets+creative+thinking." />
 
-  <br /><br />
+<br><br>
 
-  <!-- EXECUTIVE SOCIAL BADGES -->
-  <p align="center">
-    <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    &nbsp;
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    &nbsp;
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+<a href="https://github.com/saadhiqahamed">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/saadhiqahamed-undefined-569035425">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:saadhiqahamed1@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+<br><br>
 
-<br />
-
----
-
-### 💻 Profile & Technical Expertise
-
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h4>📌 Executive Overview</h4>
-      <p>I am a Full-Stack Web Developer specialized in architecting and delivering high-performance web solutions. My approach covers the entire software development lifecycle — transforming strategic concepts into production-ready digital products.</p>
-      <ul>
-        <li><b>Scalable Systems:</b> Architecture designed for high availability and maintainability.</li>
-        <li><b>Interface Engineering:</b> Premium, accessible, and responsive user experiences.</li>
-        <li><b>Product Delivery:</b> End-to-end integration, automated testing, and cloud deployment.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <!-- OPTIONAL PHOTO / BRAND BADGE -->
-      <!-- To use your photo: Replace the src link below with raw link to your GitHub photo -->
-      <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile.jpg" width="150" height="150" style="border-radius: 8px; border: 1px solid #30363d; object-fit: cover;" alt="Saadhiq Ahamed" onError="this.onerror=null;this.src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png';" />
-      <br /><br />
-      <sub><b>Saadhiq Ahamed</b></sub><br />
-      <sub>Full-Stack Developer</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Core Technology Stack
-
-<div align="center">
-
-| Domain | Core Technologies |
-| :--- | :--- |
-| **Frontend** | `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `HTML5/CSS3` |
-| **Backend** | `Node.js` · `Express.js` · `RESTful APIs` · `System Architecture` |
-| **Databases** | `MongoDB` · `PostgreSQL` · `MySQL` · `ORM Integration` |
-| **DevOps & Cloud** | `Docker` · `AWS` · `Git` · `GitHub Actions` · `CI/CD Pipelines` |
+<img src="https://komarev.com/ghpvc/?username=saadhiqahamed&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-</p>
-
----
-
-### 🚀 Selected Engineering Projects
-
-<br />
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏨 StayNear</h3>
-      <p><b>Hostel Management System</b></p>
-      <p>Full-stack web application developed to digitize and optimize hostel operations, occupancy tracking, and administrative workflows.</p>
-      <p><code>React</code> · <code>Node.js</code> · <code>MongoDB</code> · <code>REST API</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚗 Ross Motor Cars</h3>
-      <p><b>Automotive E-Commerce Platform</b></p>
-      <p>High-end responsive user interface engineered for a USA-based dealership, tailored for conversion and premium presentation.</p>
-      <p><code>Next.js</code> · <code>TypeScript</code> · <code>Tailwind CSS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Lecture Management System</h3>
-      <p><b>Academic Operations Platform</b></p>
-      <p>Custom educational management software built to streamline academic schedules and lecture tracking for SLIATE.</p>
-      <p><code>Web Applications</code> · <code>SQL Database</code> · <code>Node.js</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏪 Kandy Fancy Pvt Ltd</h3>
-      <p><b>Enterprise Retail Web Platform</b></p>
-      <p>Corporate digital presence engineered for a major retail business with optimized performance and user journeys.</p>
-      <p><code>Responsive UI</code> · <code>UI/UX Design</code> · <code>Performance</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Mage Business</h3>
-      <p><b>Offline-First POS Solution</b></p>
-      <p>Point-of-sale Android application providing full business management features with offline data persistence.</p>
-      <p><code>Mobile Tech</code> · <code>Offline-First</code> · <code>Database Sync</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💍 Sterlyn Silver</h3>
-      <p><b>E-Commerce Experience</b></p>
-      <p>Modern e-commerce platform designed for a luxury silver jewelry brand, prioritizing high-conversion checkout flows.</p>
-      <p><code>React</code> · <code>E-Commerce Architecture</code> · <code>UI/UX</code></p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### ⚙️ Development Lifecycle
-
-CONCEPT         02. DESIGN         03. ARCHITECTURE     04. DEVELOPMENT     05. DEPLOYMENT
-┌─────────────┐     ┌─────────────┐     ┌──────────────┐     ┌─────────────┐     ┌─────────────┐
-│ Strategic   │ ──> │ UI / UX     │ ──> │ Database &   │ ──> │ Clean Code  │ ──> │ CI/CD &     │
-│ Discovery   │     │ Design      │     │ API System   │     │ & Testing   │     │ Cloud Hosting│
-└─────────────┘     └─────────────┘     └──────────────┘     └─────────────┘     └─────────────┘
-
-
----
-
-### 📈 Current Engineering Focus
-
-* **System Design:** Implementing distributed, multi-tenant software architectures.
-* **Frontend Performance:** Optimizing web vitals, state management, and interaction responsiveness.
-* **Cloud Infrastructure:** Expanding continuous deployment models via containerization (`Docker`) and cloud services (`AWS`).
+<br>
 
 ---
 
 <div align="center">
 
-  ### 💼 Collaboration & Inquiries
+## ✦ ABOUT ME
 
-  Open to professional opportunities, enterprise projects, and technical consulting.
+### I BUILD WHAT I IMAGINE.
 
-  <br />
+I'm a **Full-Stack Web Developer** who enjoys combining
+**engineering, design and product thinking** to create digital experiences.
 
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Initiate_Contact-1F6FEB?style=for-the-badge&logo=mail.ru&logoColor=white" />
-  </a>
+I care about three things:
 
-  <br /><br />
+**⚡ Performance　 ·　 🎨 Design　 ·　 🧠 Simplicity**
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&customColorList=0&height=40&section=footer&stroke=1f6feb&strokeWidth=1" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+## ⚙️ TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,git,github,docker,aws,figma&theme=light&perline=9"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ✦ SELECTED WORK
+
+<br>
+
+<a href="#">
+<img src="https://dummyimage.com/900x300/111827/ffffff&text=STAYNEAR+%E2%80%94+HOSTEL+MANAGEMENT" width="85%"/>
+</a>
+
+### StayNear
+
+**Hostel Management System**
+
+<br>
+
+<a href="#">
+<img src="https://dummyimage.com/900x300/312e81/ffffff&text=ROSS+MOTOR+CARS+%E2%80%94+AUTOMOTIVE" width="85%"/>
+</a>
+
+### Ross Motor Cars
+
+**Premium Automotive Web Experience**
+
+<br>
+
+<a href="#">
+<img src="https://dummyimage.com/900x300/0f172a/ffffff&text=MAGE+BUSINESS+%E2%80%94+OFFLINE+POS" width="85%"/>
+</a>
+
+### Mage Business
+
+**Offline Point-of-Sale Application**
+
+<br>
+
+<a href="#">
+<img src="https://dummyimage.com/900x300/581c87/ffffff&text=STERLYN+SILVER+%E2%80%94+E-COMMERCE" width="85%"/>
+</a>
+
+### Sterlyn Silver
+
+**Silver Jewellery E-Commerce Experience**
+
+<br>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧩 WHAT I LOVE BUILDING
+
+<br>
+
+<img src="https://img.shields.io/badge/WEB%20APPLICATIONS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRODUCT%20UI-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATABASES-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/E--COMMERCE-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUSINESS%20SOFTWARE-EA580C?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=saadhiqahamed&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=2563EB&text_color=64748B&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadhiqahamed&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=64748B" height="170"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadhiqahamed&hide_border=true&background=00000000&ring=7C3AED&fire=F97316&currStreakLabel=2563EB"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=gradient&customColorList=12,14,16,18&text=Let's%20build%20something%20remarkable.&fontSize=25&fontColor=ffffff&animation=fadeIn" width="80%"/>
+
+<br><br>
+
+### Have an idea?
+
+<a href="mailto:saadhiqahamed1@gmail.com">
+
+<img src="https://img.shields.io/badge/LET'S%20TALK-111827?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/saadhiqahamed-undefined-569035425">LinkedIn</a>
+  •   <a href="mailto:saadhiqahamed1@gmail.com">Email</a>
+  •   <a href="https://github.com/saadhiqahamed">GitHub</a>
+
+<br><br>
+
+<sub>Designed & built by Saadhiq Ahamed · 2026</sub>
 
 </div>
